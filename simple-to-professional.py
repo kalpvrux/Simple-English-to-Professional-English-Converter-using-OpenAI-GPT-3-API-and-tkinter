@@ -2,7 +2,7 @@ import openai
 import tkinter as tk
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "Paste your api key here"
 
 # Define a function to convert simple English to professional English
 def convert_to_professional(input_text):
